@@ -1,0 +1,46 @@
+#include <iostream>
+using namespace std;
+
+
+// struct {
+//   string brand;
+//   string model;
+//   int year;
+// } myCar1, myCar2;
+// int main(){
+
+// myCar1.brand = "BMW";
+// myCar1.model = "X5";
+// myCar1.year = 1999;
+
+
+// myCar2.brand = "Ford";
+// myCar2.model = "Mustang";
+// myCar2.year = 1969;
+
+
+// cout << myCar1.brand << " " << myCar1.model << " " << myCar1.year << "\n";
+// cout << myCar2.brand << " " << myCar2.model << " " << myCar2.year << "\n";
+// return 0;
+
+// }
+
+// struct {
+//     string name;
+//     int age;
+//     int marks;
+// } student1,student2;
+
+// int main(){
+//     student1.name="arnav";
+//     student1.age=20;
+//     student1.marks=78;
+    
+//     student2.name="aaradhya";
+//     student2.age=19;
+//     student2.marks=87;
+    
+// cout<<student1.name<<" "<<student1.age<<" "<<student1.marks<<"\n";
+// cout<<student2.name<<" "<<student2.age<<" "<<student2.marks<<"\n";
+// return 0;
+// }
