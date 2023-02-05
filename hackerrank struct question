@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+struct student{
+    int age;
+    string name;
+    string lastname;
+    int standard;
+};
+int main(){
+    student st;
+    cin>>st.age>>st.name>>st.lastname>>st.standard;
+    cout<<st.age<<" "<<st.name<<" "<<st.lastname<<" "<<st.standard;
+
+    return 0;
+
+}
